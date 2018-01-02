@@ -5,5 +5,4 @@ require_relative '../lib/move.rb'
 # Code your CLI Here
 puts "Welcome to Tic Tac Toe!"
 board = [" "," "," ", " ", " ", " ", " ", " ", " "]
-3. Now, ask the user for input by outputting "Where would you like to go?" to the terminal.
-puts 
+puts "Where would you like to go?" 
